@@ -1,0 +1,9 @@
+{
+  "tags": ["Deals", "New Arrivals", "Near Me"],
+  "priceRanges": [
+    { "label": "$0 - $12", "min": 0, "max": 12 },
+    { "label": "$12 - $25", "min": 12, "max": 25 },
+    { "label": "$25+", "min": 25, "max": null }
+  ],
+  "origins": ["All", "United States", "Europe", "Asia"]
+}
